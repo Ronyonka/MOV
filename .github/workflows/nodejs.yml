@@ -1,4 +1,4 @@
-name: MOV
+name: mov
 
 on: [push]
 
