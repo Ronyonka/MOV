@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^9.0.7",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  },
+  "scripts": {
+    "build": "next build",
+    "start": "next"
+  },
+  "name": "mov",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Ronyonka <rononyonka@gmail.com>",
+  "license": "MIT"
+}
