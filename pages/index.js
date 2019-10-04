@@ -1,0 +1,1 @@
+export default () => <div>Welcome to next.js! <a href="/product">Product</a></div>
